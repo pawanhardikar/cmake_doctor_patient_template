@@ -4,9 +4,6 @@
 
 The Doctor-Patient Booking System is a C++ project designed to manage appointments between doctors and patients. Doctors can create schedules, and patients can book appointments based on these schedules. This project demonstrates the use of Object-Oriented Programming (OOP) principles in C++ and file handling using CSV files.
 
-## Output Screenshot
-
-![Output Screenshot](./output_screenshot.png)
 
 ## Project Structure
 
